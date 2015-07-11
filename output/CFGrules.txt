@@ -1,0 +1,1380 @@
+PRP->She 
+NP->PRP 
+VBZ->goes 
+TO->to 
+VB->work 
+IN->at 
+CD->9:00 
+NP->CD 
+PP->IN NP 
+VP->VB PP 
+VP->TO VP 
+S->VP 
+VP->VBZ S 
+.->. 
+S->NP VP . 
+ROOT->S 
+RB->a.m. 
+NNP->Eddy 
+NP->RB NNP 
+VBZ->plays 
+NN->basketball 
+NP->NN 
+DT->every 
+NNP->Friday 
+NP->DT NNP 
+VP->VBZ NP NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+NNP->Penny 
+NP->NNP 
+VBZ->starts 
+NN->class 
+NP->NN 
+IN->at 
+CD->10:00 
+NP->CD 
+PP->IN NP 
+VP->VBZ NP PP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->do 
+RB->n't 
+VB->drink 
+NN->beer 
+NP->NN 
+VP->VB NP 
+VP->VBP RB VP 
+.->. 
+S->NP VP . 
+ROOT->S 
+DT->This 
+NP->DT 
+VBZ->is 
+DT->a 
+NN->book 
+NP->DT NN 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+VBZ->Is 
+DT->this 
+NP->DT 
+DT->a 
+NN->book 
+NP->DT NN 
+.->? 
+SQ->VBZ NP NP . 
+ROOT->SQ 
+WP->What 
+WHNP->WP 
+VBZ->is 
+PRP->it 
+NP->PRP 
+SQ->VBZ NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+DT->That 
+NP->DT 
+VBZ->is 
+DT->a 
+NN->pencil 
+NP->DT NN 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+DT->That 
+NP->DT 
+VBZ->is 
+RB->not 
+DT->a 
+NN->pencil 
+NP->DT NN 
+VP->VBZ RB NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+VBZ->Is 
+DT->that 
+NP->DT 
+DT->a 
+NN->pencil 
+NP->DT NN 
+.->? 
+SQ->VBZ NP NP . 
+ROOT->SQ 
+WP->What 
+WHNP->WP 
+VBZ->is 
+DT->that 
+NP->DT 
+SQ->VBZ NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+DT->These 
+NP->DT 
+VBP->are 
+NNS->books 
+NP->NNS 
+VP->VBP NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+WP->What 
+WHNP->WP 
+VBP->are 
+DT->these 
+NP->DT 
+SQ->VBP NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+DT->Those 
+NP->DT 
+VBP->are 
+NNS->pencils 
+NP->NNS 
+VP->VBP NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+WP->What 
+WHNP->WP 
+VBP->are 
+DT->those 
+NP->DT 
+SQ->VBP NP 
+.->? 
+SBARQ->WHNP SQ . 
+WP->What 
+WHNP->WP 
+VBZ->is 
+PRP$->your 
+NN->address 
+NP->PRP$ NN 
+SQ->VBZ NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+WP->What 
+WHNP->WP 
+VBZ->'s 
+PRP$->your 
+NN->name 
+NP->PRP$ NN 
+SQ->VBZ NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+WDT->What 
+NN->color 
+WHNP->WDT NN 
+VBZ->is 
+DT->this 
+NP->DT 
+SQ->VBZ NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+WDT->What 
+NN->size 
+NP->NN 
+WHNP->WDT NP 
+VBZ->is 
+DT->that 
+NP->DT 
+SQ->VBZ NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+DT->This 
+NN->yard 
+NP->DT NN 
+VBZ->is 
+JJ->full 
+IN->of 
+NNS->children 
+NP->NNS 
+PP->IN NP 
+ADJP->JJ PP 
+VP->VBZ ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+WP->What 
+WHNP->WP 
+VBZ->is 
+DT->this 
+NP->DT 
+IN->in 
+DT->the 
+NN->picture 
+NP->DT NN 
+PP->IN NP 
+NP->NP PP 
+SQ->VBZ NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+PRP->One 
+NP->PRP 
+VBZ->is 
+JJ->strong 
+ADJP->JJ 
+VP->VBZ ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+DT->The 
+JJ->other 
+NP->DT JJ 
+VBZ->is 
+JJ->weak 
+ADJP->JJ 
+VP->VBZ ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+DT->That 
+NP->DT 
+VBZ->'s 
+DT->a 
+JJ->good 
+NN->idea 
+NP->DT JJ NN 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+DT->That 
+NP->DT 
+VBZ->'s 
+RB->very 
+JJ->kind 
+IN->of 
+PRP->you 
+NP->PRP 
+PP->IN NP 
+ADJP->RB JJ PP 
+VP->VBZ ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+WP->What 
+WHNP->WP 
+PRP->he 
+NP->PRP 
+VBD->said 
+VP->VBD 
+S->NP VP 
+SBAR->WHNP S 
+VBZ->is 
+NN->something 
+NP->NN 
+VP->VBZ NP 
+.->. 
+S->SBAR VP . 
+ROOT->S 
+DT->This 
+NP->DT 
+VBZ->is 
+PRP$->my 
+NN->girl 
+NP->PRP$ NN 
+VBG->going 
+IN->into 
+DT->the 
+NN->door 
+NP->DT NN 
+PP->IN NP 
+VP->VBG PP 
+NP->NP VP 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+TO->To 
+VB->do 
+IN->as 
+PRP->you 
+NP->PRP 
+VBP->suggest 
+VP->VBP 
+S->NP VP 
+SBAR->IN S 
+VP->VB SBAR 
+VP->TO VP 
+S->VP 
+MD->would 
+VB->be 
+IN->out 
+IN->of 
+DT->the 
+NN->question 
+NP->DT NN 
+PP->IN NP 
+ADJP->IN PP 
+VP->VB ADJP 
+VP->MD VP 
+.->. 
+S->S VP . 
+ROOT->S 
+DT->That 
+NP->DT 
+VBZ->is 
+RB->exactly 
+WP->what 
+WHADJP->RB WP 
+PRP->we 
+NP->PRP 
+VBP->want 
+TO->to 
+VB->learn 
+VP->VB 
+VP->TO VP 
+S->VP 
+VP->VBP S 
+S->NP VP 
+SBAR->WHADJP S 
+VP->VBZ SBAR 
+.->. 
+S->NP VP . 
+ROOT->S 
+DT->The 
+NN->verb 
+TO->to 
+VB->be 
+PRP->I 
+NP->PRP 
+VP->VB NP 
+VP->TO VP 
+S->VP 
+NP->DT NN S 
+VBP->am 
+DT->a 
+NN->girl 
+NP->DT NN 
+VP->VBP NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->am 
+RB->not 
+DT->a 
+NN->girl 
+NP->DT NN 
+VP->VBP RB NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+VBP->Are 
+PRP->you 
+NP->PRP 
+FW->a 
+NN->girl 
+NP->NN 
+PP->FW NP 
+.->? 
+SQ->VBP NP PP . 
+ROOT->SQ 
+WRB->How 
+JJ->old 
+WHADJP->WRB JJ 
+VBP->are 
+PRP->you 
+NP->PRP 
+SQ->VBP NP 
+.->? 
+SBARQ->WHADJP SQ . 
+ROOT->SBARQ 
+WRB->How 
+WHADVP->WRB 
+VBP->are 
+PRP->you 
+NP->PRP 
+SQ->VBP NP 
+.->? 
+SBARQ->WHADVP SQ . 
+ROOT->SBARQ 
+WRB->Where 
+WHADVP->WRB 
+VBP->are 
+PRP->you 
+NP->PRP 
+SQ->VBP NP 
+.->? 
+SBARQ->WHADVP SQ . 
+ROOT->SBARQ 
+PRP$->My 
+NN->father 
+NP->PRP$ NN 
+VBZ->is 
+IN->in 
+PRP$->his 
+NN->office 
+NP->PRP$ NN 
+PP->IN NP 
+VP->VBZ PP 
+.->. 
+S->NP VP . 
+ROOT->S 
+WP->Who 
+WHNP->WP 
+VBZ->'s 
+DT->that 
+NN->man 
+NP->DT NN 
+IN->over 
+RB->there 
+NP->RB 
+PP->IN NP 
+NP->NP PP 
+SQ->VBZ NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+PRP->I 
+NP->PRP 
+VBP->'m 
+CD->eight 
+NP->CD 
+VP->VBP NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->It 
+NP->PRP 
+VBZ->is 
+CD->seven 
+NP->CD 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->It 
+NP->PRP 
+VBZ->'s 
+RB->very 
+JJ->cold 
+ADJP->RB JJ 
+VP->VBZ ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->It 
+NP->PRP 
+VBZ->is 
+JJ->difficult 
+ADJP->JJ 
+VP->VBZ ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->It 
+NP->PRP 
+VBZ->is 
+JJ->wonderful 
+ADJP->JJ 
+VP->VBZ ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->It 
+NP->PRP 
+VBZ->'s 
+CD->ten 
+NN->o’clock 
+NP->CD NN 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->It 
+NP->PRP 
+VBZ->is 
+NN->time 
+NP->NN 
+IN->for 
+PRP->you 
+NP->PRP 
+PP->IN NP 
+TO->to 
+VB->get 
+RP->up 
+PRT->RP 
+VP->VB PRT 
+VP->TO VP 
+S->VP 
+NP->NP PP S 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->'m 
+JJ->interested 
+IN->in 
+DT->this 
+NN->book 
+NP->DT NN 
+PP->IN NP 
+ADJP->JJ PP 
+VP->VBP ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->'m 
+RB->very 
+JJ->fond 
+TO->to 
+PRP->you 
+NP->PRP 
+PP->TO NP 
+ADJP->RB JJ PP 
+IN->as 
+DT->a 
+NN->friend 
+NP->DT NN 
+PP->IN NP 
+VP->VBP ADJP PP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->'m 
+JJ->thirsty 
+ADJP->JJ 
+VP->VBP ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->'m 
+JJ->busy 
+ADJP->JJ 
+RB->just 
+RB->now 
+ADVP->RB RB 
+VP->VBP ADJP ADVP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->'m 
+JJ->sure 
+ADJP->JJ 
+VP->VBP ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->'m 
+JJ->glad 
+PRP->you 
+NP->PRP 
+VBP->like 
+PRP->it 
+NP->PRP 
+VP->VBP NP 
+S->NP VP 
+SBAR->S 
+ADJP->JJ SBAR 
+VP->VBP ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->'m 
+JJ->ready 
+IN->for 
+NN->breakfast 
+NP->NN 
+PP->IN NP 
+ADJP->JJ PP 
+VP->VBP ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->'m 
+JJ->good 
+IN->at 
+NN->tennis 
+NP->NN 
+PP->IN NP 
+ADJP->JJ PP 
+VP->VBP ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+WDT->What 
+NN->time 
+WHNP->WDT NN 
+VBZ->is 
+PRP->it 
+NP->PRP 
+SQ->VBZ NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+PRP->It 
+NP->PRP 
+VBZ->'s 
+CD->two 
+NNS->minutes 
+NP->CD NNS 
+IN->past 
+CD->six 
+NP->CD 
+PP->IN NP 
+NP->NP PP 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->It 
+NP->PRP 
+VBZ->'s 
+DT->half 
+JJ->past 
+CD->seven 
+NP->DT JJ CD 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->It 
+NP->PRP 
+VBZ->'s 
+DT->a 
+NN->quarter 
+NP->DT NN 
+IN->past 
+CD->five 
+NP->CD 
+PP->IN NP 
+NP->NP PP 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->It 
+NP->PRP 
+VBZ->'s 
+CD->two 
+NNS->minutes 
+NP->CD NNS 
+TO->to 
+CD->six 
+NP->CD 
+PP->TO NP 
+NP->NP PP 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->It 
+NP->PRP 
+VBZ->'s 
+CD->two 
+NP->CD 
+JJ->sharp 
+ADJP->NP JJ 
+VP->VBZ ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->It 
+NP->PRP 
+VBZ->'s 
+CD->6:30 
+NP->CD 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+WRB->How 
+JJ->many 
+WHADJP->WRB JJ 
+VBP->are 
+PRP->they 
+NP->PRP 
+SQ->VBP NP 
+.->? 
+SBARQ->WHADJP SQ . 
+ROOT->SBARQ 
+WRB->How 
+JJ->many 
+WHADJP->WRB JJ 
+NNS->flowers 
+WHNP->WHADJP NNS 
+VBP->are 
+PRP->they 
+NP->PRP 
+SQ->VBP NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+WRB->How 
+JJ->much 
+WHADJP->WRB JJ 
+NNS->rice 
+WHNP->WHADJP NNS 
+VBP->are 
+PRP->they 
+NP->PRP 
+SQ->VBP NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+WP->What 
+WHNP->WP 
+VBZ->is 
+PRP$->your 
+NN->father 
+NP->PRP$ NN 
+SQ->VBZ NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+VBP->Are 
+PRP->you 
+NP->PRP 
+VBG->sure 
+ADJP->VBG 
+.->? 
+SQ->VBP NP ADJP . 
+ROOT->SQ 
+PRP->It 
+NP->PRP 
+VBZ->'s 
+IN->in 
+DT->the 
+NN->sky 
+NP->DT NN 
+IN->near 
+PRP$->my 
+NN->home 
+NP->PRP$ NN 
+IN->on 
+DT->the 
+NN->sea 
+NP->DT NN 
+PP->IN NP 
+NP->NP PP 
+PP->IN NP 
+NP->NP PP 
+PP->IN NP 
+VP->VBZ PP 
+.->. 
+S->NP VP . 
+ROOT->S 
+DT->The 
+NN->car 
+NP->DT NN 
+VBZ->is 
+IN->near 
+DT->the 
+NN->tree 
+NP->DT NN 
+PP->IN NP 
+VP->VBZ PP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP$->Your 
+NN->hat 
+NP->PRP$ NN 
+VBZ->looks 
+RB->very 
+JJ->nice 
+ADJP->RB JJ 
+VP->VBZ ADJP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->have 
+DT->a 
+NN->pencil 
+NP->DT NN 
+CC->and 
+CD->two 
+NNS->books 
+NP->CD NNS 
+NP->NP CC NP 
+VP->VBP NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->have 
+RB->not 
+DT->a 
+JJ->red 
+NN->pencil 
+NP->RB DT JJ NN 
+VP->VBP NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+VBP->Do 
+PRP->you 
+NP->PRP 
+VB->have 
+DT->any 
+NNS->pencils 
+NP->DT NNS 
+VP->VB NP 
+.->? 
+SQ->VBP NP VP . 
+ROOT->SQ 
+WP->What 
+WHNP->WP 
+VBP->do 
+PRP->you 
+NP->PRP 
+VB->have 
+VP->VB 
+SQ->VBP NP VP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+VBP->Do 
+PRP->you 
+NP->PRP 
+VB->have 
+NN->anything 
+NP->NN 
+TO->to 
+VB->eat 
+VP->VB 
+VP->TO VP 
+S->VP 
+VP->VB NP S 
+.->? 
+SQ->VBP NP VP . 
+ROOT->SQ 
+PRP->He 
+NP->PRP 
+VBZ->has 
+DT->some 
+NNS->letters 
+NP->DT NNS 
+IN->for 
+PRP$->your 
+NN->father 
+NP->PRP$ NN 
+PP->IN NP 
+NP->NP PP 
+VP->VBZ NP 
+.->? 
+S->NP VP . 
+ROOT->S 
+PRP$->My 
+NN->sister 
+NP->PRP$ NN 
+VBZ->has 
+DT->a 
+NN->cup 
+NP->DT NN 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->have 
+DT->a 
+NN->lot 
+NP->DT NN 
+IN->of 
+NN->thing 
+NP->NN 
+PP->IN NP 
+NP->NP PP 
+TO->to 
+VB->eat 
+VP->VB 
+VP->TO VP 
+S->VP 
+VP->VBP NP S 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->have 
+DT->no 
+NN->time 
+TO->to 
+VB->see 
+PRP->you 
+NP->PRP 
+VP->VB NP 
+VP->TO VP 
+S->VP 
+NP->DT NN S 
+VP->VBP NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->We 
+NP->PRP 
+VBP->have 
+DT->a 
+NN->car 
+NP->DT NN 
+VBG->waiting 
+RB->outside 
+ADVP->RB 
+VP->VBG ADVP 
+NP->NP VP 
+VP->VBP NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+MD->'ll 
+VB->have 
+DT->some 
+NN->soup 
+NP->DT NN 
+VP->VB NP 
+VP->MD VP 
+.->. 
+S->NP VP . 
+ROOT->S 
+EX->There 
+NP->EX 
+VBZ->is 
+NN->book 
+NP->NN 
+IN->on 
+DT->the 
+NN->table 
+CD->.6 
+NP->DT NN CD 
+PP->IN NP 
+EX->There 
+NP->EX 
+VBZ->is 
+RB->not 
+DT->any 
+NN->book 
+NP->DT NN 
+IN->on 
+DT->the 
+NN->table 
+NP->DT NN 
+PP->IN NP 
+NP->NP PP 
+VP->VBZ RB NP 
+S->NP VP 
+SBAR->S 
+NP->NP PP SBAR 
+VP->VBZ NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+VBZ->Is 
+EX->there 
+NP->EX 
+DT->any 
+NN->book 
+NP->DT NN 
+IN->on 
+DT->the 
+NN->table 
+NP->DT NN 
+PP->IN NP 
+NP->NP PP 
+.->? 
+SQ->VBZ NP NP . 
+ROOT->SQ 
+WP->What 
+WHNP->WP 
+VBZ->is 
+EX->there 
+NP->EX 
+IN->on 
+DT->the 
+NN->table 
+NP->DT NN 
+PP->IN NP 
+SQ->VBZ NP PP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+EX->There 
+NP->EX 
+VBP->are 
+CD->two 
+NNS->pencils 
+NP->CD NNS 
+IN->in 
+PRP$->my 
+NN->box 
+NP->PRP$ NN 
+PP->IN NP 
+NP->NP PP 
+VP->VBP NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+EX->There 
+NP->EX 
+VBP->are 
+RB->not 
+DT->any 
+NNS->pencils 
+NP->DT NNS 
+IN->in 
+PRP$->my 
+NN->box 
+NP->PRP$ NN 
+PP->IN NP 
+NP->NP PP 
+VP->VBP RB NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+VBZ->Is 
+EX->there 
+NP->EX 
+DT->a 
+NNP->Miss 
+NNP->Lee 
+NP->DT NNP NNP 
+VBG->staying 
+RB->here 
+ADVP->RB 
+VP->VBG ADVP 
+NP->NP VP 
+.->? 
+SQ->VBZ NP NP . 
+ROOT->SQ 
+EX->There 
+NP->EX 
+MD->wo 
+RB->n't 
+VB->be 
+JJ->many 
+NNS->teachers 
+NP->JJ NNS 
+VBG->going 
+TO->to 
+DT->the 
+NN->party 
+NP->DT NN 
+PP->TO NP 
+VP->VBG PP 
+NP->NP VP 
+VP->VB NP 
+VP->MD RB VP 
+.->. 
+S->NP VP . 
+ROOT->S 
+MD->Will 
+EX->there 
+NP->EX 
+VB->be 
+DT->a 
+NN->birthday 
+NN->party 
+NP->DT NN NN 
+IN->in 
+DT->the 
+NN->home 
+NP->DT NN 
+PP->IN NP 
+NP->NP PP 
+VP->VB NP 
+.->? 
+SQ->MD NP VP . 
+ROOT->SQ 
+PRP->I 
+NP->PRP 
+VBP->drink 
+JJR->less 
+NN->water 
+NP->JJR NN 
+IN->than 
+PRP->him 
+NP->PRP 
+PP->IN NP 
+VP->VBP NP PP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->He 
+NP->PRP 
+VBZ->is 
+RB->as 
+RB->well 
+ADVP->RB RB 
+IN->as 
+PRP->you 
+NP->PRP 
+PP->IN NP 
+VP->VBZ ADVP PP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP$->Your 
+NN->car 
+NP->PRP$ NN 
+VBZ->is 
+RB->as 
+RB->fast 
+ADVP->RB RB 
+IN->as 
+NN->mine 
+NP->NN 
+PP->IN NP 
+VP->VBZ ADVP PP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->It 
+NP->PRP 
+VBD->was 
+DT->the 
+RBS->most 
+JJ->exciting 
+ADJP->RBS JJ 
+NN->match 
+NP->DT ADJP NN 
+PRP->I 
+NP->PRP 
+VBP->'ve 
+RB->ever 
+ADVP->RB 
+VBN->seen 
+VP->VBN 
+VP->VBP ADVP VP 
+S->NP VP 
+SBAR->S 
+NP->NP SBAR 
+VP->VBD NP 
+.->. 
+S->NP VP . 
+ROOT->S 
+WP->Which 
+WHNP->WP 
+VBZ->is 
+JJR->deeper 
+DT->a 
+NN->lake 
+NP->JJR DT NN 
+CC->or 
+DT->an 
+NN->ocean 
+NP->DT NN 
+NP->NP CC NP 
+SQ->VBZ NP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+WP->Which 
+WHNP->WP 
+VBZ->is 
+RBR->faster 
+ADVP->RBR 
+DT->a 
+NN->train 
+NP->DT NN 
+CC->or 
+DT->a 
+NN->bus 
+NP->DT NN 
+NP->NP CC NP 
+VP->VBZ ADVP NP 
+SQ->VP 
+.->? 
+SBARQ->WHNP SQ . 
+ROOT->SBARQ 
+PRP->He 
+NP->PRP 
+VBZ->is 
+RB->not 
+RB->so 
+JJ->tall 
+ADJP->RB JJ 
+IN->as 
+NNP->I. 
+NNP->I 
+NP->NNP NNP 
+VBP->prefer 
+TO->to 
+VB->go 
+VP->VB 
+VP->TO VP 
+RB->rather 
+IN->than 
+CONJP->RB IN 
+TO->to 
+VB->stay 
+VP->VB 
+VP->TO VP 
+VP->VP CONJP VP 
+S->VP 
+VP->VBP S 
+S->NP VP 
+SBAR->IN S 
+VP->VBZ RB ADJP SBAR 
+.->. 
+S->NP VP . 
+ROOT->S 
+IN->If 
+PRP->you 
+NP->PRP 
+VBP->go 
+RB->there 
+ADVP->RB 
+VP->VBP ADVP 
+S->NP VP 
+SBAR->IN S 
+,->, 
+PRP->you 
+NP->PRP 
+MD->will 
+VB->find 
+PRP->him 
+NP->PRP 
+VP->VB NP 
+VP->MD VP 
+.->. 
+S->SBAR , NP VP . 
+ROOT->S 
+IN->If 
+PRP->you 
+NP->PRP 
+VBD->went 
+RB->there 
+ADVP->RB 
+VP->VBD ADVP 
+S->NP VP 
+SBAR->IN S 
+,->, 
+PRP->you 
+NP->PRP 
+MD->would 
+VB->find 
+PRP->him 
+NP->PRP 
+VP->VB NP 
+VP->MD VP 
+.->. 
+S->SBAR , NP VP . 
+ROOT->S 
+IN->If 
+PRP->you 
+NP->PRP 
+VBD->had 
+VBN->gone 
+RB->there 
+ADVP->RB 
+VP->VBN ADVP 
+VP->VBD VP 
+S->NP VP 
+SBAR->IN S 
+,->, 
+PRP->you 
+NP->PRP 
+MD->would 
+VB->have 
+VBN->found 
+PRP->him 
+NP->PRP 
+VP->VBN NP 
+VP->VB VP 
+VP->MD VP 
+.->. 
+S->SBAR , NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+MD->wo 
+RB->n't 
+VB->believe 
+PRP->it 
+NP->PRP 
+IN->unless 
+PRP->I 
+NP->PRP 
+VBP->see 
+PRP->it 
+NP->PRP 
+IN->with 
+PRP$->my 
+JJ->own 
+NNS->eyes 
+NP->PRP$ JJ NNS 
+PP->IN NP 
+VP->VBP NP PP 
+S->NP VP 
+SBAR->IN S 
+VP->VB NP SBAR 
+VP->MD RB VP 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->wish 
+PRP->I 
+NP->PRP 
+VBD->were 
+DT->a 
+NN->bird 
+NP->DT NN 
+VP->VBD NP 
+S->NP VP 
+SBAR->S 
+VP->VBP SBAR 
+.->. 
+S->NP VP . 
+ROOT->S 
+PRP->I 
+NP->PRP 
+VBP->wish 
+PRP->I 
+NP->PRP 
+VBD->had 
+VBN->met 
+PRP$->my 
+NN->uncle 
+NP->PRP$ NN 
+NN->yesterday 
+NP->NN 
+VP->VBN NP NP 
+VP->VBD VP 
+S->NP VP 
+SBAR->S 
+VP->VBP SBAR 
+.->. 
+S->NP VP . 
+ROOT->S 

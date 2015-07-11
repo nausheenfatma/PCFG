@@ -1,0 +1,27 @@
+PRP:PRP ( NP ( S ( ROOT ( 
+TO:to 
+VB:work 
+IN:at 
+CD:9:00 
+NP:CD 
+PP:IN NP 
+VP:VB PP 
+VP:TO VP 
+S:VP 
+VP:VBZ S 
+.:. 
+S:NP VP . 
+ROOT:S 
+RB:a.m. 
+NNP:Eddy 
+NP:RB NNP 
+VBZ:plays 
+NN:basketball 
+NP:NN 
+DT:every 
+NNP:Friday 
+NP:DT NNP 
+VP:VBZ NP NP 
+.:. 
+S:NP VP . 
+ROOT:S 
