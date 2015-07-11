@@ -1,4 +1,0 @@
-1)run extractCFG.py ....finds all rules from training file parse trees(data/English_Parsed_Train.txt)
-2)run extractPCFg.py ....takes output of 1(output/CFGrules.txt),gives probabilities to rules
-3)run findCNF.py ....takes output of 2(output/PCFGrules.txt),gives Chomsky Normal form production rules
-4)run CKY.py ........takes output of 3(output/CNFrules.txt),gives Cfinal tree (final_output.txt)
